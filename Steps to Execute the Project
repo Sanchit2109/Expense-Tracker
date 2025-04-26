@@ -1,0 +1,11 @@
+1.)Clone the repository or create a new folder:
+Download the files or create the project structure as outlined above.
+2.)For Static Version:
+Open the index.html file directly in your web browser.
+3.)For Node.js Version (Optional Backend):
+Ensure that you have Node.js installed.
+4.)In the terminal, run the following command to install dependencies:
+npm install express
+5.)Start the server by running:
+node server.js
+6.)Open your browser and go to http://localhost:3000 to view the website.
