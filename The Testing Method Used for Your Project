@@ -1,0 +1,12 @@
+Since this is a web-based project, the primary testing methods include:
+
+Manual Testing:
+Checking if the UI/UX is intuitive and easy to use.
+Ensuring all forms and buttons function properly (e.g., adding expenses, submitting the form).
+Cross-browser testing to ensure compatibility with modern browsers like Chrome, Firefox, and Safari.
+
+Unit Testing (if backend is used):
+Testing individual components of the Node.js server (using Mocha/Chai or Jest for testing routes and functionality).
+
+User Acceptance Testing (UAT):
+Conducted by a small group of end-users to identify potential usability issues and gather feedback.
